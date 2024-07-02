@@ -1,10 +1,12 @@
 {
-  "name": "c",
+  "name": "0x03-ES6_data_manipulation",
   "version": "1.0.0",
   "description": "",
   "main": "0-get_list_students.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node server.js"
+    "dev": "command-to-run-dev-script"
   },
   "author": "",
   "license": "ISC"
